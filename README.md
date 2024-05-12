@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently an undergrad at IIIT Bhagalpur
 - 👯 I’m looking to collaborate on different projects on Web Development
 - 💬 Ask me about *Web Development | C++*
-- 📫 How to reach me: *Email:* **nandinipanndey379@gmail.com*   **Contact No.:* *+91-9369864748***
+- 📫 How to reach me: *Email:* **nandinipandey379@gmail.com*   **Contact No.:* *+91-9369864748***
 - 💪 Achievements: *GDSC Event Lead, Training and Placement Coordinator,Technical Board,IIIT Bhagalpur*
 
 
